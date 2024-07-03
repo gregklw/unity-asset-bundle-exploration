@@ -1,0 +1,154 @@
+ManifestFileVersion: 0
+CRC: 2809720585
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9efe13d161eeb1dccd4498786d7ae0c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9f9d13d6889ca0435e7223ae925159af
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9efe13d161eeb1dccd4498786d7ae0c1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/checkered-black-green-squares-3840x2160.png
+- Assets/ExcludeFromBuild/Undead Survivor/Animations/Enemy/RunEnemy 4.anim
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  47.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  39.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  49.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  3.png
+- Assets/ExcludeFromBuild/Undead Survivor/Animations/Enemy/HitEnemy 4.anim
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  2.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  26.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Enemy 4.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  15.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  12.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  10.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  5.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  19.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  8.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  4.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  34.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  17.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  36.png
+- Assets/AssetBundlePrefabs/Background_Filler_Green.prefab
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  37.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  21.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Enemy 1.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  11.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  13.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  18.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  29.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  35.png
+- Assets/AssetBundlePrefabs/Enemy/Level1/Enemy_Zombie2.prefab
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  33.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  28.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  38.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  41.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  9.png
+- Assets/ExcludeFromBuild/Undead Survivor/Animations/Enemy/HitEnemy 1.anim
+- Assets/ExcludeFromBuild/Undead Survivor/Animations/Enemy/RunEnemy 1.anim
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  6.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  7.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  23.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  45.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  42.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  16.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  31.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  43.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  50.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  24.png
+- Assets/AssetBundlePrefabs/Enemy/Level1/Enemy_Demon_1.prefab
+- Assets/ExcludeFromBuild/Undead Survivor/Animations/Enemy/AcEnemy 4.overrideController
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  22.png
+- Assets/ExcludeFromBuild/Undead Survivor/Animations/Enemy/DeadEnemy 4.anim
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  40.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  46.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  14.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  32.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  48.png
+- Assets/ExcludeFromBuild/Undead Survivor/Animations/Enemy/DeadEnemy 1.anim
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  27.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  44.png
+- Assets/ExcludeFromBuild/Undead Survivor/Animations/Enemy/AcEnemy 1.overrideController
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  30.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  25.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  1.png
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Filler/checkered-black-green-squares-3840x2160
+  20.png
+Dependencies:
+- D:/Unity Projects/personal-project-systems/asset-bundle-exploration/Assets/AssetBundles/enemybasebundle.default

@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 1002141811
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5a7a77ef6605f4e940bc71bc9281b0aa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2de68312bacf0f469f5f1f0b16579a03
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5a7a77ef6605f4e940bc71bc9281b0aa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ExcludeFromBuild/Undead Survivor/Sprites/Enemy 0.png
+- Assets/ExcludeFromBuild/Undead Survivor/Animations/Enemy/HitEnemy 0.anim
+- Assets/AssetBundlePrefabs/Enemy/Default/Enemy_Zombie1.prefab
+- Assets/ExcludeFromBuild/Undead Survivor/Animations/Enemy/AcEnemy 0.controller
+- Assets/ExcludeFromBuild/Undead Survivor/Animations/Enemy/DeadEnemy 0.anim
+- Assets/ExcludeFromBuild/Undead Survivor/Animations/Enemy/RunEnemy 0.anim
+Dependencies: []
