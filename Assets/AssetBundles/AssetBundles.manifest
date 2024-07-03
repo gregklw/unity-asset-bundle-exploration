@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1701050169
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: playercharacterbundle
+      Dependencies: {}
+    Info_1:
+      Name: enemybasebundle.level1boss
+      Dependencies:
+        Dependency_0: enemybasebundle.default
+    Info_2:
+      Name: enemybasebundle.level1
+      Dependencies:
+        Dependency_0: enemybasebundle.default
+    Info_3:
+      Name: enemybasebundle.default
+      Dependencies: {}
